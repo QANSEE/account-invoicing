@@ -21,7 +21,7 @@ msgstr ""
 #: view:account.invoice:account_invoice_force_number.account_invoice_form_int_number
 #: view:account.invoice:account_invoice_force_number.account_invoice_supplier_form_int_number
 msgid "Force Number"
-msgstr ""
+msgstr "Dwing het nummer"
 
 #. module: account_invoice_force_number
 #: view:account.invoice:account_invoice_force_number.account_invoice_form_int_number
